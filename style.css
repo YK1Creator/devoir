@@ -1,0 +1,42 @@
+html{
+    background-color: blueviolet;
+    height: 100%;
+    margin:70px;
+    padding:50px
+}
+
+#block1{
+    display: inline-block;
+    height: 500px;
+    width: 250px;
+    margin: 50px;
+    padding:20px;
+    border-radius: 10%;
+    background-color: #2d2d2d;
+}
+
+#block2{
+    display: inline-block;
+    height: 500px;
+    width: 250px;
+    margin: 50px;
+    padding:20px;
+    border-radius: 10%;
+    background-color: #2d2d2d;
+}
+
+#block3{
+    display: inline-block;
+    height: 500px;
+    width: 250px;
+    margin: 50px;
+    padding:20px;
+    border-radius: 10%;
+    background-color: #2d2d2d;
+}
+h2{
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+}
